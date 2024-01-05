@@ -272,7 +272,7 @@ const Dashboard: React.FC = () => {
                       Not Reliant on Credit
                     </TableCell>
                     <TableCell align="center">
-                      Income > Expenses
+                      {'Income > Expenses'}
                     </TableCell>
 
                       <TableCell align="center">
